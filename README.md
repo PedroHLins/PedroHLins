@@ -8,9 +8,9 @@
 
 <div align="center">
     <a href="https://github.com/PedroHLins">
-        <img height="180"
+        <img height="150"
             src="https://github-readme-stats.vercel.app/api?username=PedroHLins&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-        <img height="180"
+        <img height="150"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHLins&layout=compact&langs_count=8&theme=dark" />
     </a>
 </div>
