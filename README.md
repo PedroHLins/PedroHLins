@@ -4,7 +4,6 @@
 - 📚 Atualmente estudante do 4° período de ciência da computação
 - 📫 Contate-me em: pedrolins971@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/pedro-henrique-lins-bba690345/
-- 👨 Pronomes: Ele/Dele
 
 <div align="center">
     <a href="https://github.com/PedroHLins">
