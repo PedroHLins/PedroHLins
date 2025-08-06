@@ -7,8 +7,9 @@
 
 <div align="center">
     <a href="https://github.com/PedroHLins">
-        <img height="150"
+        <img height="200"
             src="https://github-readme-stats.vercel.app/api?username=PedroHLins&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+        <br>
         <img height="150"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHLins&layout=compact&langs_count=8&theme=dark" />
     </a>
@@ -22,6 +23,10 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
         <img alt="Java" height="60" width="60"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+        <img alt="CSharp" height="60" width="60"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
         <img alt="Mysql" height="60" width="60"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />  
+        <img alt="Git" height="60" width="60"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     </div>
